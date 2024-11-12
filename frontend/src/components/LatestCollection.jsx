@@ -18,7 +18,7 @@ const LatestCollection = () => {
           <Title text1={'LATEST'} text2={'COLLECTIONS'} />
           <p className='w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600'>
             {console.log(products)}
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the.
+            Discover the latest trends and must-haves in our new collection. From stylish essentials to unique pieces, find everything you need to elevate your wardrobe. Shop now and stay ahead of the style curve
           </p>
       </div>
 
